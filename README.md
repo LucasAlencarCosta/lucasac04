@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasac04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Js/Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android Mobile Developing
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Mobile Projects
 - 📫 How to reach me loucongxd@gmail.com
 
 <!---
