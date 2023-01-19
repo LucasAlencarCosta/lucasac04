@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lucasac04
-- 👀 I’m interested in Android Mobile Developing
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Mobile Projects
+- 👋 Hi, I’m Lucas Alencar Costa
+- 👀 I’m interested in Mobile Developing
+- 🌱 I’m currently studying Kotlin, Dart/Flutter and Java in the university
 - 📫 How to reach me lucasalencarcosta04@gmail.com
 
 <!---
